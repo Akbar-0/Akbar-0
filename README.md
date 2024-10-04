@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akbar-0
+- 👋 Hi, I’m Akbar Shah Zar
 - 👀 I’m interested in Microelectronics, Computer Architecture, Assembly and high level programming
 - 🌱 I’m pursuing Bachelors in Electrical Engineering
 - 💞️ I’m looking to collaborate on Web, App, and Embedded System Development projects.
