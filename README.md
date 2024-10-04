@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akbar Shah Zar!
-- 👀 I have a keen interest in Microelectronics, Computer Architecture, Assembly, and high-level programming.
 - 🌱 Currently, I’m pursuing a Bachelor's degree in Electrical Engineering from [NUST](nust.edu.pk).
+- 👀 I have a keen interest in Microelectronics, Computer Architecture, Assembly, and high-level programming.
 - 💞 I'm eager to collaborate on projects related to Web, App, and Embedded System Development.
 - 📫 Feel free to reach out via [Email](mailto:amughal.bee23seecs@seecs.edu.pk) or [LinkedIn](www.linkedin.com/in/akbar-shah-zar-a44b11291).
 - 😄 Pronouns: he/him
